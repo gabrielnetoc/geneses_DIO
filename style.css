@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: beige;
+    background-color: rgb(95, 95, 95);
 
 }
 
@@ -53,5 +53,5 @@ body{
 }
 
 .selected{
-    opacity: 0.8;
+    opacity: 0.4;
 }
